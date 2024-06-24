@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/careella-b](https://github.com/careella-b)
 
-- ⚡ Fun fact **I'm bilingual, fluent in English and Thai.**
+- ⚡ Fun fact **I'm fluent in Thai.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
