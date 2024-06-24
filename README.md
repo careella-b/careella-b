@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Care-Ella Bellerby</h1>
 <h3 align="center">An aspiring Frontend Developer with a passion for creating beautiful and functional web experiences. While I'm just starting my journey in the tech world, I’m eager to learn, grow, and contribute to exciting projects.</h3>
 
-- 🔭 I’m currently working on **improving my skills and staying up-to-date with the latest trends in frontend development.**
+- 🔭 I’m currently working on **improving my skills and staying up-to-date with the latest trends in frontend development**
 
 - 🌱 I’m currently learning **Advanced JavaScript, React.js, and modern CSS techniques**
 
 - 👨‍💻 All of my projects are available at [https://github.com/careella-b](https://github.com/careella-b)
 
-- ⚡ Fun fact **I'm fluent in Thai.**
+- ⚡ Fun fact **I'm fluent in Thai :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
