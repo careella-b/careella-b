@@ -8,6 +8,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/careella-b](https://github.com/careella-b)
 
 - ⚡ Fun fact **I'm bilingual, fluent in English and Thai.**
+  
+- 👩🏻‍💻 My Work in UX/UI Design and Web Development **https://www.honeypotcreative.co.uk/, https://yourvideostory.co.uk/, https://garyhogg.co.uk/, https://karisjones.co.uk/, https://nwmvideo.co.uk/ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
