@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **improving my skills and staying up-to-date with the latest trends in frontend development.**
 
-- 🌱 I’m currently learning **Advanced JavaScript, React.js, and modern CSS techniques**
-
-- 👨‍💻 All of my projects are available at [https://github.com/careella-b](https://github.com/careella-b)
+- 🌱 I’m currently learning **Advanced JavaScript, React.js and UX/UI Design**
 
 - ⚡ Fun fact **I'm bilingual, fluent in English and Thai.**
   
