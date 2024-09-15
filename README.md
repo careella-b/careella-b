@@ -4,11 +4,12 @@
 - 🔭 I’m currently working on **improving my skills and staying up-to-date with the latest trends in frontend development.**
 
 - 🌱 I’m currently learning **Advanced JavaScript, React.js and UX/UI Design**
-
+  
 - ⚡ Fun fact **I'm bilingual, fluent in English and Thai.**
   
 - 👩🏻‍💻 My Work in UX/UI Design and Web Development:
-  <br/>**https://www.honeypotcreative.co.uk/ <br/>https://yourvideostory.co.uk/ <br/> https://garyhogg.co.uk/ <br/> https://karisjones.co.uk/ <br/> https://nwmvideo.co.uk/**
+  <br/>**https://www.honeypotcreative.co.uk/ <br/>https://yourvideostory.co.uk/ <br/> https://garyhogg.co.uk/ <br/> https://karisjones.co.uk/ <br/> https://nwmvideo.co.uk/
+  <br/>Currently working: **https://kumquat-seal-67gn.squarespace.com/ <br/>Password: password**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
