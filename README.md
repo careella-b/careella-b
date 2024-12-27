@@ -8,8 +8,7 @@
 - ⚡ Fun fact **I'm bilingual, fluent in English and Thai.**
   
 - 👩🏻‍💻 My Work in UX/UI Design and Web Development:
-  <br/>**https://www.honeypotcreative.co.uk/ <br/>https://yourvideostory.co.uk/ <br/> https://garyhogg.co.uk/ <br/> https://karisjones.co.uk/ <br/> https://nwmvideo.co.uk/
-  <br/> Currently working on: https://kumquat-seal-67gn.squarespace.com/ <br/>Password: password**
+  <br/>**https://www.honeypotcreative.co.uk/ <br/>https://yourvideostory.co.uk/ <br/> https://garyhogg.co.uk/ <br/> https://karisjones.co.uk/ <br/> https://nwmvideo.co.uk/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
